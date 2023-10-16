@@ -38,24 +38,3 @@ class ListPerson {
 
 export default ListPerson
 
-// class ListPerson {
-//     constructor() {
-//         this.arrStudents = []
-//         this.arrEmployee = []
-//         this.arrCustomer = []
-//         this.arrTotal = []
-//     }
-//     // Thêm người dùng
-//     addPerson(select, person) {
-//         if (select === "Student") {
-//             this.arrStudents.push(person)
-//         } else if (select === "Employee") {
-//             this.arrEmployee.push(person)
-//         } else if (select === "Customer") {
-//             this.arrCustomer.push(person)
-//         }
-//     }
-
-// }
-
-// export default ListPerson
