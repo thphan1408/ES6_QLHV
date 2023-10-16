@@ -37,4 +37,3 @@ class ListPerson {
 }
 
 export default ListPerson
-
