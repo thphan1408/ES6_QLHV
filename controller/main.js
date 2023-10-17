@@ -8,10 +8,6 @@ const listPerson = new ListPerson()
 
 //default value // nhớ kh
 const getInfoPerson = (isCheckTrung = true) => {
-  //có truyền gì lên dâu mà true vs falsse
-
-  // vậy chỗ cái thêm cũng sai luôn
-
   let isValid = true
   const ma = getElements('#ma').value
   const hoTen = getElements('#hoTen').value
